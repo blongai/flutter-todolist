@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 #### 项目介绍
 
-适合flutter新手入门的一款todolist。
+适合flutter新手入门的一款todolist待办事项，其中包括常用布局以及widget，以及增删数据、列表渲染、本地存储等基本操作。
 
 #### 主要功能
 - 新增代办事项
