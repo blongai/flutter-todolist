@@ -21,9 +21,10 @@ samples, guidance on mobile development, and a full API reference.
 
 #### 主要功能
 - 新增代办事项
+- 数据持久化本地储存
 - 全选/取消全选代办事项
 - 一键清空代办事项
 - 所有、正进行、已完成待办事项tabs切换
 - 长按事项显示详情信息
 - 左滑事项出现删除按钮
-- title处记录剩下未完成的事项数量
+- title处显示剩下未完成的事项数量
